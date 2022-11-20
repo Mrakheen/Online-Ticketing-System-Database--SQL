@@ -1,7 +1,7 @@
 CSE 3330 Group 13:
 Subash Bhusal, Mubtasim Ahmed Rakheen, Bishal Giri
 
-Project Description: Database and Queries for an oniline ticketing system that sells movie tickets
+Project Description: Database and SQL Queries for an oniline ticketing system that sells movie tickets
 
 ** The created database is the "ticketing.db" file **
 
